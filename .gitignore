@@ -64,6 +64,8 @@ dmypy.json
 # Reference papers (copyrighted, not redistributable)
 机器学习及人工智能优化算法-参考文献/
 
+# Log files
+*.log
+
 # Temporary
 *.tmp
-*.log

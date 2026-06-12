@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use OSFT in your research, please cite it as below."
+authors:
+  - family-names: Peng
+    given-names: Zhiwei
+    alias: DreamNight
+title: "OSFT: Orthogonal Subspace Fine-Tuning for Physics-Constrained TopologyGAN"
+version: 1.0.0
+date-released: 2026-06-12
+url: "https://github.com/sixtdreanight/osft"
+license: MIT
+type: software
+repository-code: "https://github.com/sixtdreanight/osft"
