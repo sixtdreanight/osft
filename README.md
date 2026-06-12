@@ -141,8 +141,7 @@ osft/
 
 ### Data & Model Weights
 
-- **Datasets**: [Baidu Netdisk / HuggingFace — link TBD]
-- **Pretrained checkpoints**: [Baidu Netdisk / HuggingFace — link TBD]
+- **Datasets & Checkpoints**: [huggingface.co/DreamNight16/osft-weights](https://huggingface.co/DreamNight16/osft-weights)
 - **Data format**: 64×128 Cantilever beam topology optimization, 7-channel (density + 6 BC fields)
 
 ### Limitations (Honest Assessment)
@@ -264,8 +263,7 @@ python -m main.osft.trainer \
 
 ### 数据与模型权重
 
-- **数据集**: [百度网盘 / HuggingFace — 待上传]
-- **预训练权重**: [百度网盘 / HuggingFace — 待上传]
+- **数据集 & 预训练权重**: [huggingface.co/DreamNight16/osft-weights](https://huggingface.co/DreamNight16/osft-weights)
 - **数据格式**: 64×128 悬臂梁拓扑优化，7 通道（密度 + 6 个边界条件场）
 
 ### 局限性（诚实评估）

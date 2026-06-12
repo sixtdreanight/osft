@@ -245,7 +245,7 @@ Quantitative verification of this hypothesis requires two experiments: (1) pertu
 
 - **Repository**: [github.com/sixtdreanight/osft](https://github.com/sixtdreanight/osft)
 - **Prior work (theoretical framework & verification plan)**: [Orthogonal Subspace Fine-Tuning for Physics-Constrained Lightweight TopologyGAN](https://dreamnight.net.cn/posts/GAN)
-- **Pretrained weights & dataset**: Coming soon (HuggingFace)
+- **Pretrained weights & dataset**: [huggingface.co/DreamNight16/osft-weights](https://huggingface.co/DreamNight16/osft-weights)
 - **Full experiment logs**: See repo `docs/notes/`
 - **Discussion**: [GitHub Issues](https://github.com/sixtdreanight/osft/issues)
 
