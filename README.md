@@ -54,7 +54,7 @@ We compared SVD principal directions with Fisher Information Matrix diagonal dir
 
 ```bash
 # Clone
-git clone https://github.com/DreamNight/osft.git
+git clone https://github.com/sixtdreanight/osft.git
 cd osft
 
 # Install
@@ -158,7 +158,7 @@ osft/
   author = {Zhiwei Peng},
   title = {{OSFT}: Orthogonal Subspace Fine-Tuning for Physics-Constrained TopologyGAN},
   year = {2026},
-  url = {https://github.com/DreamNight/osft},
+  url = {https://github.com/sixtdreanight/osft},
 }
 ```
 
@@ -217,7 +217,7 @@ MIT — see [LICENSE](LICENSE).
 ### 安装
 
 ```bash
-git clone https://github.com/DreamNight/osft.git
+git clone https://github.com/sixtdreanight/osft.git
 cd osft
 pip install -e .            # 基础安装
 pip install -e ".[dev]"     # 含测试工具
@@ -281,7 +281,7 @@ python -m main.osft.trainer \
   author = {Zhiwei Peng},
   title = {{OSFT}: Orthogonal Subspace Fine-Tuning for Physics-Constrained TopologyGAN},
   year = {2026},
-  url = {https://github.com/DreamNight/osft},
+  url = {https://github.com/sixtdreanight/osft},
 }
 ```
 
