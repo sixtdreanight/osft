@@ -1,5 +1,5 @@
 [project]
-name = "osft-topologygan"
+name = "osft"
 version = "1.0.0"
 description = "Orthogonal Subspace Fine-Tuning for Physics-Constrained Lightweight Topology GANs"
 readme = "README.md"
@@ -33,7 +33,7 @@ viz = [
     "lpips>=0.1",
 ]
 all = [
-    "osft-topologygan[dev,viz]",
+    "osft[dev,viz]",
 ]
 
 [tool.black]

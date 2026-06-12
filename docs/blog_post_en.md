@@ -1,8 +1,8 @@
-# When Physics Gradients Ambush Your GAN: The 40× Anomaly
+# Where Does 99.5% of the Gradient Go? — Structural Knowledge Forgetting and Protection in Physics-Constrained GAN Fine-Tuning
 
 > By: DreamNight (Zhiwei Peng)  
 > Date: 2026-06-12  
-> Code: [github.com/DreamNight/osft-topologygan](https://github.com/DreamNight/osft-topologygan)
+> Code: [github.com/DreamNight/osft](https://github.com/DreamNight/osft)
 
 ---
 
@@ -204,10 +204,10 @@ You might think these results deserve a paper. We wrote a draft. Then we decided
 
 ## Links
 
-- **Code**: [github.com/DreamNight/osft-topologygan](https://github.com/DreamNight/osft-topologygan)
+- **Code**: [github.com/DreamNight/osft](https://github.com/DreamNight/osft)
 - **Pretrained Weights & Dataset**: [TBD — will be uploaded to HuggingFace]
 - **Full Experiment Logs**: See repo `docs/notes/`
-- **Contact**: [GitHub Issues](https://github.com/DreamNight/osft-topologygan/issues)
+- **Contact**: [GitHub Issues](https://github.com/DreamNight/osft/issues)
 
 ---
 

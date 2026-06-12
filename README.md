@@ -54,8 +54,8 @@ We compared SVD principal directions with Fisher Information Matrix diagonal dir
 
 ```bash
 # Clone
-git clone https://github.com/DreamNight/osft-topologygan.git
-cd osft-topologygan
+git clone https://github.com/DreamNight/osft.git
+cd osft
 
 # Install
 pip install -e .
@@ -104,7 +104,7 @@ All results are in `results/`. Detailed analysis in `docs/notes/`.
 ### Project Structure
 
 ```
-osft-topologygan/
+osft/
 ├── main/
 │   ├── osft/              # Core OSFT implementation
 │   │   ├── config.py          # OSFTConfig dataclass
@@ -158,7 +158,7 @@ osft-topologygan/
   author = {Zhiwei Peng},
   title = {{OSFT}: Orthogonal Subspace Fine-Tuning for Physics-Constrained TopologyGAN},
   year = {2026},
-  url = {https://github.com/DreamNight/osft-topologygan},
+  url = {https://github.com/DreamNight/osft},
 }
 ```
 
@@ -217,8 +217,8 @@ MIT — see [LICENSE](LICENSE).
 ### 安装
 
 ```bash
-git clone https://github.com/DreamNight/osft-topologygan.git
-cd osft-topologygan
+git clone https://github.com/DreamNight/osft.git
+cd osft
 pip install -e .            # 基础安装
 pip install -e ".[dev]"     # 含测试工具
 pip install -e ".[viz]"     # 含可视化
@@ -281,7 +281,7 @@ python -m main.osft.trainer \
   author = {Zhiwei Peng},
   title = {{OSFT}: Orthogonal Subspace Fine-Tuning for Physics-Constrained TopologyGAN},
   year = {2026},
-  url = {https://github.com/DreamNight/osft-topologygan},
+  url = {https://github.com/DreamNight/osft},
 }
 ```
 

@@ -1,8 +1,8 @@
-# 当物理梯度偷袭了你的 GAN：一个 40 倍异常的发现
+# 99.5% 的梯度去哪了？——物理微调中 GAN 结构知识的遗忘与保护
 
 > 署名：DreamNight / 梦夜  
 > 日期：2026-06-12  
-> 代码：[github.com/DreamNight/osft-topologygan](https://github.com/DreamNight/osft-topologygan)
+> 代码：[github.com/DreamNight/osft](https://github.com/DreamNight/osft)
 
 ---
 
@@ -206,10 +206,10 @@ SVD 捕获的是**谱结构重要性**（这个方向在数据分布中有多少
 
 ## 链接
 
-- **代码**: [github.com/DreamNight/osft-topologygan](https://github.com/DreamNight/osft-topologygan)
+- **代码**: [github.com/DreamNight/osft](https://github.com/DreamNight/osft)
 - **预训练权重 & 数据集**: [待上传]
 - **完整实验记录**: 见 repo `docs/notes/`
-- **联系**: [GitHub Issues](https://github.com/DreamNight/osft-topologygan/issues)
+- **联系**: [GitHub Issues](https://github.com/DreamNight/osft/issues)
 
 ---
 
