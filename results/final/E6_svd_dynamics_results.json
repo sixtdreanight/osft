@@ -1,0 +1,100 @@
+{
+  "Full_FT": {
+    "snapshots": [
+      {
+        "epoch": 0,
+        "avg_effective_rank": 189.71603532270953
+      },
+      {
+        "epoch": 5,
+        "avg_effective_rank": 186.4184145493941
+      },
+      {
+        "epoch": 10,
+        "avg_effective_rank": 177.97233425487173
+      },
+      {
+        "epoch": 15,
+        "avg_effective_rank": 171.96218195828524
+      },
+      {
+        "epoch": 20,
+        "avg_effective_rank": 161.46925995566627
+      },
+      {
+        "epoch": 25,
+        "avg_effective_rank": 159.36695358969948
+      },
+      {
+        "epoch": 30,
+        "avg_effective_rank": 157.2156179601496
+      },
+      {
+        "epoch": 35,
+        "avg_effective_rank": 153.2112114646218
+      },
+      {
+        "epoch": 40,
+        "avg_effective_rank": 149.7456845370206
+      },
+      {
+        "epoch": 45,
+        "avg_effective_rank": 144.43768501281738
+      },
+      {
+        "epoch": 50,
+        "avg_effective_rank": 141.72612953186035
+      }
+    ],
+    "dynamics_report": {}
+  },
+  "OSFT": {
+    "snapshots": [
+      {
+        "epoch": 0,
+        "avg_effective_rank": 189.71603532270953
+      },
+      {
+        "epoch": 5,
+        "avg_effective_rank": 189.48608138344505
+      },
+      {
+        "epoch": 10,
+        "avg_effective_rank": 189.500563881614
+      },
+      {
+        "epoch": 15,
+        "avg_effective_rank": 184.26706088672984
+      },
+      {
+        "epoch": 20,
+        "avg_effective_rank": 180.73237159035423
+      },
+      {
+        "epoch": 25,
+        "avg_effective_rank": 176.32900602167302
+      },
+      {
+        "epoch": 30,
+        "avg_effective_rank": 166.30814413590863
+      },
+      {
+        "epoch": 35,
+        "avg_effective_rank": 164.37116692282936
+      },
+      {
+        "epoch": 40,
+        "avg_effective_rank": 158.15572149103338
+      },
+      {
+        "epoch": 45,
+        "avg_effective_rank": 154.1163747960871
+      },
+      {
+        "epoch": 50,
+        "avg_effective_rank": 149.43225773898038
+      }
+    ],
+    "dynamics_report": {}
+  }
+}

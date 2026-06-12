@@ -1,0 +1,26 @@
+{
+  "Pre-trained": {
+    "compliance_fake": 1811.31,
+    "compliance_real": 28549864.86,
+    "compliance_error": 0.838,
+    "vf_fake": 0.611,
+    "vf_real": 0.506,
+    "vf_error": 0.424
+  },
+  "Full FT": {
+    "compliance_fake": 3008.64,
+    "compliance_real": 28549864.86,
+    "compliance_error": 1.054,
+    "vf_fake": 0.484,
+    "vf_real": 0.506,
+    "vf_error": 0.298
+  },
+  "OSFT": {
+    "compliance_fake": 6418.83,
+    "compliance_real": 28549864.86,
+    "compliance_error": 1.899,
+    "vf_fake": 0.407,
+    "vf_real": 0.506,
+    "vf_error": 0.279
+  }
+}

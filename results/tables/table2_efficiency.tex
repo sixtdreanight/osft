@@ -1,0 +1,14 @@
+\begin{table}[t]
+\caption{Parameter Efficiency Comparison}
+\label{tab:efficiency}
+\begin{tabular}{lrrrr}
+\toprule
+Method & Trainable Params & Fraction & GPU Memory & Time/Epoch \\
+\midrule
+Full FT & 79,281,665 & 100.0\% & 1.66 GB & 8.5s \\
+LoRA-r8 & 2,057,952 & 100.0\% & 2.11 GB & 7.9s \\
+Adapter & 1,093,537 & 1.4\% & 2.36 GB & 7.7s \\
+OSFT & 523,153 & 2.9\% & 3.52 GB & 9.0s \\
+\bottomrule
+\end{tabular}
+\end{table}

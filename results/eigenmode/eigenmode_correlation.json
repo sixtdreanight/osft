@@ -1,0 +1,290 @@
+[
+  {
+    "layer": "e5.conv",
+    "svd_vec": 1,
+    "eigenmode": 1,
+    "omega": 1.87510407,
+    "pearson_r": -0.20155882835388184,
+    "p_value": 0.0
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 1,
+    "eigenmode": 2,
+    "omega": 4.69409113,
+    "pearson_r": 0.2328183948993683,
+    "p_value": 0.0
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 1,
+    "eigenmode": 3,
+    "omega": 7.85475744,
+    "pearson_r": 0.03374262899160385,
+    "p_value": 0.0022548020351678133
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 1,
+    "eigenmode": 4,
+    "omega": 10.99554073,
+    "pearson_r": 0.014340322464704514,
+    "p_value": 0.19435511529445648
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 2,
+    "eigenmode": 1,
+    "omega": 1.87510407,
+    "pearson_r": -0.2736881375312805,
+    "p_value": 0.0
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 2,
+    "eigenmode": 2,
+    "omega": 4.69409113,
+    "pearson_r": 0.16523928940296173,
+    "p_value": 0.0
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 2,
+    "eigenmode": 3,
+    "omega": 7.85475744,
+    "pearson_r": 0.15761157870292664,
+    "p_value": 0.0
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 2,
+    "eigenmode": 4,
+    "omega": 10.99554073,
+    "pearson_r": 0.056739792227745056,
+    "p_value": 2.7641408451017924e-07
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 3,
+    "eigenmode": 1,
+    "omega": 1.87510407,
+    "pearson_r": -0.2062925547361374,
+    "p_value": 0.0
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 3,
+    "eigenmode": 2,
+    "omega": 4.69409113,
+    "pearson_r": 0.09516958892345428,
+    "p_value": 6.0263544559933224e-18
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 3,
+    "eigenmode": 3,
+    "omega": 7.85475744,
+    "pearson_r": 0.13636615872383118,
+    "p_value": 2.66175284599508e-35
+  },
+  {
+    "layer": "e5.conv",
+    "svd_vec": 3,
+    "eigenmode": 4,
+    "omega": 10.99554073,
+    "pearson_r": 0.07955530285835266,
+    "p_value": 5.560234889699645e-13
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 1,
+    "eigenmode": 1,
+    "omega": 1.87510407,
+    "pearson_r": -0.22193843126296997,
+    "p_value": 0.0
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 1,
+    "eigenmode": 2,
+    "omega": 4.69409113,
+    "pearson_r": 0.24738332629203796,
+    "p_value": 0.0
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 1,
+    "eigenmode": 3,
+    "omega": 7.85475744,
+    "pearson_r": 0.02289815992116928,
+    "p_value": 0.03822221979498863
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 1,
+    "eigenmode": 4,
+    "omega": 10.99554073,
+    "pearson_r": 0.019935665652155876,
+    "p_value": 0.07118911296129227
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 2,
+    "eigenmode": 1,
+    "omega": 1.87510407,
+    "pearson_r": -0.0746079683303833,
+    "p_value": 1.3691382229341631e-11
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 2,
+    "eigenmode": 2,
+    "omega": 4.69409113,
+    "pearson_r": 0.2415025234222412,
+    "p_value": 0.0
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 2,
+    "eigenmode": 3,
+    "omega": 7.85475744,
+    "pearson_r": -0.058412857353687286,
+    "p_value": 1.2188652931399702e-07
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 2,
+    "eigenmode": 4,
+    "omega": 10.99554073,
+    "pearson_r": -0.045881375670433044,
+    "p_value": 3.2633710361551493e-05
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 3,
+    "eigenmode": 1,
+    "omega": 1.87510407,
+    "pearson_r": -0.16135486960411072,
+    "p_value": 0.0
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 3,
+    "eigenmode": 2,
+    "omega": 4.69409113,
+    "pearson_r": 0.20443087816238403,
+    "p_value": 0.0
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 3,
+    "eigenmode": 3,
+    "omega": 7.85475744,
+    "pearson_r": -0.03042832389473915,
+    "p_value": 0.00588228739798069
+  },
+  {
+    "layer": "d2.deconv",
+    "svd_vec": 3,
+    "eigenmode": 4,
+    "omega": 10.99554073,
+    "pearson_r": 0.03962962329387665,
+    "p_value": 0.00033357975189574063
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 1,
+    "eigenmode": 1,
+    "omega": 1.87510407,
+    "pearson_r": -0.09906002134084702,
+    "p_value": 2.5491617847837617e-19
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 1,
+    "eigenmode": 2,
+    "omega": 4.69409113,
+    "pearson_r": 0.18724754452705383,
+    "p_value": 0.0
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 1,
+    "eigenmode": 3,
+    "omega": 7.85475744,
+    "pearson_r": -0.030928470194339752,
+    "p_value": 0.005117070395499468
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 1,
+    "eigenmode": 4,
+    "omega": 10.99554073,
+    "pearson_r": 0.04378986731171608,
+    "p_value": 7.348741200985387e-05
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 2,
+    "eigenmode": 1,
+    "omega": 1.87510407,
+    "pearson_r": -0.18923847377300262,
+    "p_value": 0.0
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 2,
+    "eigenmode": 2,
+    "omega": 4.69409113,
+    "pearson_r": 0.06065452843904495,
+    "p_value": 3.928383307538752e-08
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 2,
+    "eigenmode": 3,
+    "omega": 7.85475744,
+    "pearson_r": 0.04136596992611885,
+    "p_value": 0.00018035585526376963
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 2,
+    "eigenmode": 4,
+    "omega": 10.99554073,
+    "pearson_r": 0.11422090232372284,
+    "p_value": 3.378638008950491e-25
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 3,
+    "eigenmode": 1,
+    "omega": 1.87510407,
+    "pearson_r": -0.16298997402191162,
+    "p_value": 0.0
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 3,
+    "eigenmode": 2,
+    "omega": 4.69409113,
+    "pearson_r": 0.08434227108955383,
+    "p_value": 2.0692530398576728e-14
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 3,
+    "eigenmode": 3,
+    "omega": 7.85475744,
+    "pearson_r": 0.13238930702209473,
+    "p_value": 2.3637101219143646e-33
+  },
+  {
+    "layer": "d3.deconv",
+    "svd_vec": 3,
+    "eigenmode": 4,
+    "omega": 10.99554073,
+    "pearson_r": 0.11020799726247787,
+    "p_value": 1.4657696684444975e-23
+  }
+]

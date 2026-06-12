@@ -1,0 +1,30 @@
+{
+  "Full FT": {
+    "total_params": 79281665,
+    "trainable_params": 79281665,
+    "trainable_pct": 100.0,
+    "gpu_memory_gb": 1.6585679054260254,
+    "time_per_epoch_s": 8.475512933731078
+  },
+  "LoRA-r8": {
+    "total_params": 2057952,
+    "trainable_params": 2057952,
+    "trainable_pct": 100.0,
+    "gpu_memory_gb": 2.1082301139831543,
+    "time_per_epoch_s": 7.867008209228516
+  },
+  "Adapter": {
+    "total_params": 79540002,
+    "trainable_params": 1093537,
+    "trainable_pct": 1.3748264678192992,
+    "gpu_memory_gb": 2.3580126762390137,
+    "time_per_epoch_s": 7.7128591299057
+  },
+  "OSFT": {
+    "total_params": 17742353,
+    "trainable_params": 523153,
+    "trainable_pct": 2.948611156592364,
+    "gpu_memory_gb": 3.5175633430480957,
+    "time_per_epoch_s": 8.96858103275299
+  }
+}

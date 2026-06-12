@@ -1,0 +1,20 @@
+{
+  "Pre-trained": {
+    "effective_rank": 181.40042114257812,
+    "stable_rank": 109.3223876953125,
+    "participation_ratio": 190.75100708007812,
+    "n_samples": 2
+  },
+  "Full FT": {
+    "effective_rank": 159.3131103515625,
+    "stable_rank": 315.7301940917969,
+    "participation_ratio": 178.80076599121094,
+    "n_samples": 2
+  },
+  "OSFT": {
+    "effective_rank": 199.90380859375,
+    "stable_rank": 201.76885986328125,
+    "participation_ratio": 199.9518280029297,
+    "n_samples": 2
+  }
+}

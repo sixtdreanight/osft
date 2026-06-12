@@ -1,0 +1,23 @@
+{
+  "Random-Pretrained": {
+    "best_r": -0.3757524788379669,
+    "best_layer": "e5.conv",
+    "best_svd": 3,
+    "best_mode": 1,
+    "top5_mean_r": 0.3045932173728943
+  },
+  "Full-FT-SIMP": {
+    "best_r": 0.3912298083305359,
+    "best_layer": "d3.deconv",
+    "best_svd": 2,
+    "best_mode": 4,
+    "top5_mean_r": 0.3158546358346939
+  },
+  "OSFT-SIMP": {
+    "best_r": -0.41829758882522583,
+    "best_layer": "d2.deconv",
+    "best_svd": 2,
+    "best_mode": 1,
+    "top5_mean_r": 0.30728057622909544
+  }
+}
